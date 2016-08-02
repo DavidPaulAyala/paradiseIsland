@@ -1,7 +1,7 @@
 body {
   text-align: center;
   background-color: #F5FFFA;
-  font-family: sans-serif;;
+  font-family: sans-serif;
   color: black;
 }
 
@@ -17,7 +17,7 @@ div.container {
 
 header, footer {
     padding: 1em;
-    color: green;
+    color: #0080ff;
     background-color: black;
     clear: left;
     text-align: center;
@@ -36,6 +36,7 @@ nav {
     padding: 1em;
     font-family: sans-serif;
     font-weight: bold;
+    
 }
 
 ul,ol {
