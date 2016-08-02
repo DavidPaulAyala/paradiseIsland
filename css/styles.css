@@ -1,7 +1,7 @@
 body {
   text-align: center;
-  background-color: #F5FFFA;
-  font-family: sans-serif;
+  background-color: #00bfff;
+  font-family: serif;
   color: black;
 }
 
@@ -17,7 +17,7 @@ div.container {
 
 header, footer {
     padding: 1em;
-    color: #0080ff;
+    color: #ff3333;
     background-color: black;
     clear: left;
     text-align: center;
@@ -34,9 +34,9 @@ nav {
     max-width: 160px;
     margin: 0;
     padding: 1em;
-    font-family: sans-serif;
+    font-family: serif;
     font-weight: bold;
-    
+
 }
 
 ul,ol {
@@ -54,7 +54,7 @@ nav ul a {
 
 article {
     margin-left: 170px;
-    border-left: 1px solid gray;
+    border-left: 3px solid gray;
     padding: 1em;
     overflow: hidden;
 }
